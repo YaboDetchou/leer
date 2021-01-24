@@ -10,3 +10,6 @@ HTML5, CSS3
 
 ##### View Site:
 https://leer.netlify.app/
+
+
+![screencapture-leer-netlify-app-2021-01-23-21_25_37](https://user-images.githubusercontent.com/44301883/105646245-e5370800-5e6c-11eb-9258-ae4f8acd6ca5.png)
